@@ -1,3 +1,3 @@
 //Welcome Everyone!
-// merhaba
+// merhaba,
 //Hello my friends
